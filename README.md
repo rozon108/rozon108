@@ -17,7 +17,7 @@ I am Rojan, web developer.<br>Currenlty working on reactJs and nodeJs.<br>I am a
 [![](https://gtce.itsvg.in/api?username=@rojanTech)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rozon108&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=rozon108&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.
 
